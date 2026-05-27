@@ -14,4 +14,3 @@
 **Gradient:** `linear-gradient(135deg, #FFE14A, #FFD400, #CCA800)`
 **Design cues:** glowing intelligence grids, analytics waveforms, AI telemetry
 **Category:** Analytics
-
